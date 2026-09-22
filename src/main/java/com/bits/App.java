@@ -7,5 +7,6 @@ public class App {
         p1.display();
         p2.display();
         System.out.println("Products Created Successfully!");
+         System.out.println("Products Added  Successfully!");
     }
 }
